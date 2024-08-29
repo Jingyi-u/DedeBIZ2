@@ -1,3 +1,4 @@
+源码地址：https://gitee.com/DedeBIZ/DedeV6/releases/tag/6.3.0
 <img width="794" alt="image" src="https://github.com/user-attachments/assets/61e56440-498d-447f-b8e5-ce187751b1f1">
 
 描述处添加恶意代码   <script>alert(1)</script>，保存
